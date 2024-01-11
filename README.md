@@ -2,11 +2,11 @@
 <br>
 
 ### MayQueen introduces PANZER-PLUS
-Which is an edge fanless AI PC based on NXP i.MX8M-Plus processor
+Which is an edge fanless AI Computing based on NXP i.MX8M-Plus processor
 
 Designed to bring out the full capabilities of the i.MX8M-Plus SoC, PANZER-PLUS provides 4GB RAM and 16GB eMMC, 2 Gigabit Ethernet, RGMII, 2 USB 3.0 ports, 2 UARTs and 8 GPIOs. Display connectivity is supported with up to 4k resolution HDMI. Measuring just 155 x 110 x 35 mm size with metal enclosure, PANZER-PLUS also features optional WiFi 802.11ac and Bluetooth 5.x interfaces. PANZER-PLUS is offered with industrial temperature range of -20C to 70C.
 
-Excellent connectivity, low cost and small size make PANZER-PLUS a modular solution for many applications such as AI PC, IIoT gateway, robotic controller, and low power efficiency device. In addition, PANZER-PLUS incorporates numerous design innovations on its metal shell, such as easy disassembly and the addition of a dedicated shield for debugging/programming software. This feature allows you to perform development tasks without the need to dismantle the entire casing.
+Excellent connectivity, low cost and small size make PANZER-PLUS a modular solution for many applications such as AI Computing, IIoT gateway, robotic controller, and low power efficiency device. In addition, PANZER-PLUS incorporates numerous design innovations on its metal shell, such as easy disassembly and the addition of a dedicated shield for debugging/programming software. This feature allows you to perform development tasks without the need to dismantle the entire casing.
 
 Software Support
 PANZER-PLUS is provided with a full BSP and ready-to-run images for the Linux/Android operating system.
@@ -16,9 +16,9 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 <br>
 
 #### Overview
-|                         Fanless AI PC                         | Description                                                  |                       BSP support                       |                       Instruction                        |
+|                         Fanless AI Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| Coming soon | **PANZER-PLUS** <br />     3.5" ARM64 edge fanless AI PC with NXP i.MX 8M Plus <br/> [Datasheet](#) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [Interfaces](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/WAFER%E2%80%90IMX8MP-PINOUT) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Yocto-Zone) <br /> Ubuntu Zone <br /> [Android Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Android-Zone) <br /> |
+| Coming soon | **PANZER-PLUS** <br />     3.5" ARM64 edge fanless AI Computing with NXP i.MX 8M Plus <br/> [Datasheet](#) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [Interfaces](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/WAFER%E2%80%90IMX8MP-PINOUT) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Yocto-Zone) <br /> Ubuntu Zone <br /> [Android Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Android-Zone) <br /> |
 
 
 |                         Specifications                         |                                                   |
