@@ -18,7 +18,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 #### Overview
 |                         Fanless AI Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| Coming soon | **PANZER-PLUS** <br />     3.5" ARM64 edge fanless AI Computing with NXP i.MX 8M Plus <br/> [Datasheet](#) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [Interfaces](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Interfaces) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Yocto-Zone) <br /> Ubuntu Zone <br /> [Android Zone](https://github.com/MayQueenTechCommunity/WAFER-IMX8MP/wiki/Android-Zone) <br /> |
+| Coming soon | **PANZER-PLUS** <br />     3.5" ARM64 edge fanless AI Computing with NXP i.MX 8M Plus <br/> [Datasheet](#) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [Interfaces](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Interfaces) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Yocto-Zone) <br /> [Ubuntu Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Ubuntu-Zone) <br /> [Android Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Android-Zone) <br /> |
 
 
 |                         Specifications                         |                                                   |
