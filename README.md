@@ -2,11 +2,11 @@
 <br>
 
 ### MayQueen introduces PANZER-PLUS
-Which is an edge fanless AI Computing based on NXP i.MX8M-Plus processor
+Which is an edge fanless AIOT Computing based on NXP i.MX8M-Plus processor
 
 Designed to bring out the full capabilities of the i.MX8M-Plus SoC, PANZER-PLUS provides 4GB RAM and 16GB eMMC, 2 Gigabit Ethernet, RGMII, 2 USB 3.0 ports, 2 UARTs and 8 GPIOs. Display connectivity is supported with up to 4k resolution HDMI. Measuring just 155 x 110 x 35 mm size with metal enclosure, PANZER-PLUS also features optional WiFi 802.11ac and Bluetooth 5.x interfaces. PANZER-PLUS is offered with industrial temperature range of -20C to 70C.
 
-Excellent connectivity, low cost and small size make PANZER-PLUS a modular solution for many applications such as AI Computing, IIoT gateway, robotic controller, and low power efficiency device. In addition, PANZER-PLUS incorporates numerous design innovations on its metal shell, such as easy disassembly and the addition of a dedicated shield for debugging/programming software. This feature allows you to perform development tasks without the need to dismantle the entire casing.
+Excellent connectivity, low cost and small size make PANZER-PLUS a modular solution for many applications such as AIOT Computing, IIoT gateway, robotic controller, and low power efficiency device. In addition, PANZER-PLUS incorporates numerous design innovations on its metal shell, such as easy disassembly and the addition of a dedicated shield for debugging/programming software. This feature allows you to perform development tasks without the need to dismantle the entire casing.
 
 Software Support
 PANZER-PLUS is provided with a full BSP and ready-to-run images for the Linux/Android operating system.
@@ -16,7 +16,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 <br>
 
 #### Overview
-|                         Fanless AI Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
+|                         Fanless AIOT Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
 | Coming soon | **PANZER-PLUS** <br />     3.5" ARM64 edge fanless AI Computing with NXP i.MX 8M Plus <br/> [Datasheet](#) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [Interfaces](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Interfaces) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Yocto-Zone) <br /> [Ubuntu Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Ubuntu-Zone) <br /> [Android Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Android-Zone) <br /> |
 
@@ -47,6 +47,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 | LTE module | Sierra Wireless EM7455 <br /> Fibocom NL668-EAU| $55|
 | 5GNR module | Fibocom FM160-EAU (external box)| $300 |
 | WiFi/Bluetooth module | Broadcom AP6275SDSR WiFi6/BT5 Pre-certified <br /> Broadcom AP6275S WiFi6/BT5 <br /> Realtek RTL8822CS WiFi5/BT5 | $60 <br /> $55 <br /> $50|
+| Debug Console | USB to TTL cable | $10|
 <br>
 
 #### Unbox Video
