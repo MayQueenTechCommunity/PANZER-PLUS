@@ -1,4 +1,4 @@
-<img src="https://www.mayqueentech.com/images/nutsboard.png" width="100" align="right">
+<img src="https://www.mayqueentech.com/img/logo.png" width="100" align="right">
 <br>
 
 ### MayQueen introduces PANZER-PLUS
