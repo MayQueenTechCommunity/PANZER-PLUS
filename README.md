@@ -50,8 +50,8 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 | Debug Console | USB to TTL cable | $10|
 <br>
 
-#### Unbox Video
-Coming soon
+#### Video Introduction
+[![PANZER-PLUS Introduction](https://res.cloudinary.com/marcomontalbano/image/upload/v1706499781/video_to_markdown/images/youtube--kA_dhOvVW94-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kA_dhOvVW94 "PANZER-PLUS Introduction")
 <br>
 
 #### Price and Availability
