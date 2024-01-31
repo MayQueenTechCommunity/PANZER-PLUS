@@ -30,7 +30,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 | PMIC | NXP PCA9450 |
 | Display | HDMI-TX|
 | Audio | Headset connector |
-| Network | 2x Gigabit Ethernet / RGMII <br /> WiFi module connector <br /> 4G/5G module connector <br /> SIM slot |
+| Network | 2x Gigabit Ethernet / RGMII <br /> WiFi module connector <br /> 4G module connector <br /> SIM slot |
 | USB | 2x USB 3.0 host <br /> 1 x USB type-C (for download mode) |
 | UART | 1x RS232/RS422/RS485 DB9 <br /> 1x RS232/RS485 DB9 |
 | General I/O | 8 x GPIO DB9 <br /> 1 x power key |
