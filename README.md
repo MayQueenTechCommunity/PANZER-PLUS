@@ -44,9 +44,9 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 
 |                         Optional                         |                                                   |                         Add ($) with antenna / 1pc                    |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |:----------------------------------------------------------- |
-| LTE module | Sierra Wireless EM7455 <br /> Fibocom NL668-EAU| $55|
+| LTE module | Sierra Wireless EM7590 <br /> Sierra Wireless EM7455 <br /> Fibocom NL668-EAU| $100 <br/> $55 <br /> $55|
 | 5GNR module | SIMCOM SIM8262E-M2 (**NEW**)<br /> SIMCOM SIM8202G-M2 | $190<br />$110 |
-| WiFi/Bluetooth module | Broadcom AP6275SDSR WiFi6/BT5 Pre-certified <br /> Broadcom AP6275S WiFi6/BT5 <br /> Realtek RTL8822CS WiFi5/BT5 | $60 <br /> $55 <br /> $50|
+| WiFi/Bluetooth module | Broadcom AP6275SDSR WiFi6/BT5 Pre-certified <br /> Broadcom AP6275S WiFi6/BT5 <br /> Realtek RTL8822CS WiFi5/BT5 | $65 <br /> $55 <br /> $50|
 | Debug Console | USB to TTL cable | $10|
 <br>
 
