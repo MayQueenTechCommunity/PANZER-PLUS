@@ -49,7 +49,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 
 |Supported Modem Model|Supported OS|Status|
 |---|---|---|
-|FIBOCOM NL668-EU| Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
+|FIBOCOM NL668-EAU| Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
 |SIMCOM SIM8262E-M2 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#10004; <br> &#x274C;|
 |SIMCOM SIM8202G-M2 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
 |Sierra Wireless EM7455 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#10004;|
