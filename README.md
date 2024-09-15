@@ -33,12 +33,27 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 | Network | 2x Gigabit Ethernet / RGMII <br /> WiFi module connector <br /> 4G module connector <br /> SIM slot |
 | USB | 2x USB 3.0 host <br /> 1 x USB type-C (for download mode) |
 | UART | 1x RS232/RS422/RS485 DB9 <br /> 1x RS232/RS485 DB9 |
-| General I/O | 8 x GPIO DB9 <br /> 1 x power key |
+| General I/O | 8 x GPIO DB9 <br /> 1 x power key <br /> 1x RTC |
 | Debug | Special 2-wire connector |
 | Supply Voltage | 12Volt terminal block connector |
 | Dimensions | 155 x 110 x 35 (mm) |
 | Temp. range | -20C to 70C |
 <br>
+
+|LTS OS|Current Support|Status|
+|---|---|---|
+|Android | Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#10004;|
+|Yocto | Scarthgap <br> Kirkstone |&#10004; <br> &#10004;|
+|Ubuntu | Ubuntu 24.04 <br> Ubuntu 22.04 |&#x23F3; <br> &#10004;|
+|Debian | Debian 12 | &#x23F3;|
+
+|Supported Modem Model|Supported OS|Status|
+|---|---|---|
+|FIBOCOM NL668-EU| Yocto Scarthgap <br> Yocto Scarthgap <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
+|SIMCOM SIM8262E-M2 | Yocto Scarthgap <br> Yocto Scarthgap <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#10004; <br> &#x274C;|
+|SIMCOM SIM8202G-M2 | Yocto Scarthgap <br> Yocto Scarthgap <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
+|Sierra Wireless EM7455 | Yocto Scarthgap <br> Yocto Scarthgap <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#10004;|
+|Sierra Wireless EM7590 | Yocto Scarthgap <br> Yocto Scarthgap <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
 
 #### Accessories
 
@@ -56,7 +71,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 
 #### Price and Availability
 PANZER-PLUS is now available through direct sales (www.mayqueentech.com).
-PANZER-PLUS is offered in a variety of configurations starting from $350 for 1pc order.
+PANZER-PLUS is offered in a variety of configurations starting from $290 for 1pc order.
 Detailed ordering and pricing information is available on sales contact window.
 <br>
 
