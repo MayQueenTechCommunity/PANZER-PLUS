@@ -32,7 +32,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 | Audio | Headset connector |
 | Network | 2x Gigabit Ethernet / RGMII <br /> WiFi module connector <br /> 4G module connector <br /> SIM slot |
 | USB | 2x USB 3.0 host <br /> 1 x USB type-C (for download mode) |
-| UART | 1x RS232/RS422/RS485 DB9 <br /> 1x RS232/RS485 DB9 |
+| UART | 1x RS232/RS422/RS485 DB9 <br /> 1x RS232/RS485 PIN Header |
 | General I/O | 8 x GPIO DB9 <br /> 1 x power key <br /> 1x RTC |
 | Debug | Special 2-wire connector |
 | Supply Voltage | 12Volt terminal block connector |
