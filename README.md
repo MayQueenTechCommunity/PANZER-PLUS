@@ -18,7 +18,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 #### Overview
 |                         Fanless AIOT Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://mayqueen-lab.github.io/img/panzer-plus.png" width="200"/> | **PANZER-PLUS** <br />     3.5" ARM64 edge fanless AI Computing with NXP i.MX 8M Plus <br/> [Datasheet](https://www.dropbox.com/scl/fi/w1sx5vcurrjmk9k94e4r3/panzer-plus.pdf?rlkey=55t78y84gnl08i8bre0hh3ckh&dl=0) | Yocto LTS <br /> Ubuntu LTS <br /> Android | [Interfaces](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Interfaces) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Yocto-Zone) <br /> [Ubuntu Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Ubuntu-Zone) <br /> [Android Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Android-Zone) <br /> |
+| <img src="https://mayqueen-lab.github.io/img/panzer-plus.png" width="200"/> | **PANZER-PLUS** <br />     3.5" ARM64 edge fanless AI Computing with NXP i.MX 8M Plus <br/> [Datasheet](https://www.dropbox.com/scl/fi/w1sx5vcurrjmk9k94e4r3/panzer-plus.pdf?rlkey=55t78y84gnl08i8bre0hh3ckh&dl=0) | Yocto LTS <br /> Ubuntu LTS <br /> Android <br /> Debian | [Interfaces](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Interfaces) <br /> [Yocto Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Yocto-Zone) <br /> [Ubuntu Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Ubuntu-Zone) <br /> [Android Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Android-Zone) <br /> [Debian Zone](https://github.com/MayQueenTechCommunity/PANZER-PLUS/wiki/Debian-Zone)|
 
 
 |                         Specifications                         |                                                   |
@@ -45,15 +45,15 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 |Android | Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#10004;|
 |Yocto | Scarthgap <br> Kirkstone |&#10004; <br> &#10004;|
 |Ubuntu | Ubuntu 24.04 <br> Ubuntu 22.04 |&#x23F3; <br> &#10004;|
-|Debian | Debian 12 | &#x23F3;|
+|Debian | Debian 12 | &#10004; |
 
 |Supported Modem Model|Supported OS|Status|
 |---|---|---|
-|FIBOCOM NL668-EAU| Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
-|SIMCOM SIM8262E-M2 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#10004; <br> &#x274C;|
-|SIMCOM SIM8202G-M2 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
-|Sierra Wireless EM7455 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#10004;|
-|Sierra Wireless EM7590 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#x23F3; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
+|FIBOCOM NL668-EAU| Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br>  &#10004; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
+|SIMCOM SIM8262E-M2 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br>  &#10004; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#10004; <br> &#x274C;|
+|SIMCOM SIM8202G-M2 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br>  &#10004; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
+|Sierra Wireless EM7455 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#10004; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#10004;|
+|Sierra Wireless EM7590 | Yocto Scarthgap <br> Yocto Kirkstone <br> Debian 12 <br> Ubuntu 24.04 <br> Ubuntu 22.04 <br> Android 14 <br> Android 13 <br> Android 12 |&#10004; <br> &#10004; <br> &#10004; <br> &#x23F3; <br> &#10004; <br> &#x274C; <br> &#x274C; <br> &#x274C;|
 
 #### Accessories
 
