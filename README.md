@@ -71,7 +71,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 
 #### Price and Availability
 PANZER-PLUS is now available through direct sales (www.mayqueentech.com).
-PANZER-PLUS is offered in a variety of configurations starting from $290 for 1pc order.
+PANZER-PLUS is offered in a variety of configurations starting from $390 for 1pc order.
 Detailed ordering and pricing information is available on sales contact window.
 <br>
 
