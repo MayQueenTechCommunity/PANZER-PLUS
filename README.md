@@ -42,7 +42,7 @@ Because PANZER-PLUS has a NPU inside the CPU, so we implementing AI functions fo
 
 |LTS OS|Current Support|Status|
 |---|---|---|
-|Android | Android 15 <br> Android 14 <br> Android 13 <br> Android 12 |&#x23F3; <br> &#10004; <br> &#10004; <br> &#10004;|
+|Android | Android 16 <br> Android 15 <br> Android 14 <br> Android 13 <br> Android 12 |&#x23F3; <br>  &#10004; <br> &#10004; <br> &#10004; <br> &#10004;|
 |Yocto | Scarthgap <br> Kirkstone |&#10004; <br> &#10004;|
 |Ubuntu | Ubuntu 24.04 <br> Ubuntu 22.04 |&#x23F3; <br> &#10004;|
 |Debian | Debian 12 | &#10004; |
